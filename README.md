@@ -1,1 +1,1 @@
-# VR360-HackEase
+# VR360
